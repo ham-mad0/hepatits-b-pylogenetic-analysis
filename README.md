@@ -10,7 +10,7 @@ This repository contains a phylogenetic analysis of Hepatitis B Virus (HBV) isol
 
 ## 🧬 Methodology
 ![Hepatitis B Phylogenetic Tree](input.fa.final_tree.nw.png)
-1. Retrieved HBV nucleotide seqences from NCBI.
+1. Retrieved HBV nucleotide sequence from NCBI.
 2. Performed multiple sequence alignment to identify conserved regions and variations.
 3. Constructed a midpoint-rooted phylogram to analyze genetic distance between strains.
 
